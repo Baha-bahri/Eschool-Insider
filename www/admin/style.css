@@ -1,0 +1,196 @@
+#add {
+    width: 100%;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+#add details {
+    width: 60%;
+    margin: auto;
+}
+
+#add details summary {
+    line-height: 30px;
+    width: 100%;
+    height: 30px;
+    color: #196ad4;
+    border: 1px solid rgb(128, 191, 228);
+    font-size: 12px;
+    text-align: center;
+    outline: none;
+    cursor: pointer;
+}
+
+#add details form {
+    background: rgb(36, 125, 173);
+    padding: 3%;
+    box-sizing: border-box;
+}
+
+#add details form input {
+    width: 100%;
+    height: 30px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+
+#add details form select {
+    width: 100%;
+    height: 30px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+
+#add details form textarea {
+    margin-bottom: 2%;
+    font-size: 12px;
+    width: 100%;
+    height: 100px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+
+#add details form button {
+    color: #fff;
+    width: 40%;
+    height: 30px;
+    font-size: 12px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+}
+
+#add details form button:hover {
+    cursor: pointer;
+    background: #fff;
+    color: rgb(36, 125, 173);
+}
+
+#add table {
+    width: 60%;
+    margin: auto;
+}
+
+#add table tr th {
+    height: 35px;
+    background: rgb(36, 125, 173);
+    font-size: 14px;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+#add table tr td {
+    color: rgb(36, 125, 173);
+    height: 30px;
+    padding-left: 2%;
+    box-sizing: border-box;
+    padding: 2px;
+    font-size: 14px;
+}
+
+#edit_form {
+    width: 50%;
+    padding: 2%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#edit_form input {
+    width: 100%;
+    height: 30px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+
+#edit_form button {
+    cursor: pointer;
+    color: rgb(36, 125, 173);
+    width: 40%;
+    height: 30px;
+    font-size: 12px;
+    background: none;
+    outline: none;
+    border: 1px solid rgb(36, 125, 173);
+}
+
+#edit_form button:hover {
+    color: #fff;
+    background: rgb(36, 125, 173);
+    ;
+}
+
+#con {
+    width: 100%;
+}
+
+#con form table {
+    width: 70%;
+    padding: 5%;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+#con form table tr td {
+    width: 50%;
+    height: 35px;
+    font-size: 12px;
+}
+
+#con form table tr td input {
+    border: 1px solid rgb(36, 125, 173);
+    border-radius: 3px;
+    width: 100%;
+    height: 25px;
+    outline: none;
+    padding-left: 5%;
+}
+
+#con form button {
+    cursor: pointer;
+    width: 20%;
+    height: 35px;
+    border: 1px solid rgb(36, 125, 173);
+    background: none;
+    outline: none;
+}
+
+#con form button:hover {
+    background: rgb(36, 125, 173);
+    color: #fff;
+}
+
+#about {
+    width: 60%;
+    margin: auto;
+    padding: 5%;
+    box-sizing: border-box;
+}
+
+#about textarea {
+    border: 1px solid rgb(36, 125, 173);
+    width: 100%;
+    height: 150px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#about form button {
+    cursor: pointer;
+    width: 20%;
+    height: 35px;
+    border: 1px solid rgb(36, 125, 173);
+    background: none;
+    outline: none;
+}
+
+#about form button:hover {
+    background: rgb(36, 125, 173);
+    color: #fff;
+}
